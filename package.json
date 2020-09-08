@@ -1,6 +1,7 @@
 {
   "name": "currency",
   "version": "0.1.0",
+  "homepage": "https://sagarkudu.github.io/Fetch-mulitple-api-using-ReactJS/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",

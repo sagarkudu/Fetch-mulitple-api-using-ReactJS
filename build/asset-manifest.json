@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Fetch-mulitple-api-using-ReactJS/static/css/main.f5072505.chunk.css",
+    "main.js": "/Fetch-mulitple-api-using-ReactJS/static/js/main.bc8d0cc9.chunk.js",
+    "main.js.map": "/Fetch-mulitple-api-using-ReactJS/static/js/main.bc8d0cc9.chunk.js.map",
+    "runtime-main.js": "/Fetch-mulitple-api-using-ReactJS/static/js/runtime-main.068c8df2.js",
+    "runtime-main.js.map": "/Fetch-mulitple-api-using-ReactJS/static/js/runtime-main.068c8df2.js.map",
+    "static/js/2.7a987df7.chunk.js": "/Fetch-mulitple-api-using-ReactJS/static/js/2.7a987df7.chunk.js",
+    "static/js/2.7a987df7.chunk.js.map": "/Fetch-mulitple-api-using-ReactJS/static/js/2.7a987df7.chunk.js.map",
+    "index.html": "/Fetch-mulitple-api-using-ReactJS/index.html",
+    "precache-manifest.95abe6376ac81d6da80e69493e25d447.js": "/Fetch-mulitple-api-using-ReactJS/precache-manifest.95abe6376ac81d6da80e69493e25d447.js",
+    "service-worker.js": "/Fetch-mulitple-api-using-ReactJS/service-worker.js",
+    "static/css/main.f5072505.chunk.css.map": "/Fetch-mulitple-api-using-ReactJS/static/css/main.f5072505.chunk.css.map",
+    "static/js/2.7a987df7.chunk.js.LICENSE.txt": "/Fetch-mulitple-api-using-ReactJS/static/js/2.7a987df7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.068c8df2.js",
+    "static/js/2.7a987df7.chunk.js",
+    "static/css/main.f5072505.chunk.css",
+    "static/js/main.bc8d0cc9.chunk.js"
+  ]
+}
